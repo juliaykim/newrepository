@@ -1,1 +1,3 @@
 *.dat
+#all .dat files
+results/
