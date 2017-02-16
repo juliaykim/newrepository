@@ -1,2 +1,6 @@
 aliekrjalekrja blah
-mars is a planet
+bmars is a planet
+
+mars is red
+
+there is some water on Mars.
